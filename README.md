@@ -9,10 +9,10 @@ Antennas are critical components in wireless systems. The Yagi-Uda antenna is kn
 The simulation includes:
 
 - Reflector, driven element, and multiple directors
-- Target frequency: **~401 MHz**
-- Software used: **Altair FEKO**
-- Return Loss (S11): ~**-17 dB**
-- Peak Gain: **~15.75 dBi**
+- Target frequency: ~401 MHz
+- Software used: Altair FEKO
+- Return Loss (S11): ~-17 dB
+- Peak Gain: ~15.75 dBi
 
 ## 🧪 Features
 
@@ -47,7 +47,7 @@ The simulation includes:
 
 ## 🔗 Author
 
-**Lathashree M S**  
+Lathashree M S 
 [LinkedIn](https://www.linkedin.com/in/lathashree-m-s-b1a916294)  
 [GitHub](https://github.com/Lathashree2004)  
 📧 llathashreems@gmail.com
