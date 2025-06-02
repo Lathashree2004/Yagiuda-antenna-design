@@ -48,6 +48,7 @@ The simulation includes:
 ## 🔗 Author
 
 Lathashree M S 
+
 [LinkedIn](https://www.linkedin.com/in/lathashree-m-s-b1a916294)  
 [GitHub](https://github.com/Lathashree2004)  
 📧 llathashreems@gmail.com
